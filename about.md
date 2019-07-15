@@ -17,4 +17,4 @@ Todos nuestro aliados han desarrollado las habilidades y disponen de las herrami
 
 ### Contactanos
 
-[Customer Support](mailto:soporte@contexo.com.ve)
+[soporte@contexo.com.ve](mailto:soporte@contexo.com.ve)
